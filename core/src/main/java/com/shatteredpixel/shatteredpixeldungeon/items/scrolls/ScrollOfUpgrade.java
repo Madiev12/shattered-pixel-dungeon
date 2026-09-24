@@ -51,6 +51,7 @@ public class ScrollOfUpgrade extends InventoryScroll {
 		unique = true;
 
 		talentFactor = 2f;
+		quantity(6);
 	}
 
 	@Override
